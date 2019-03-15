@@ -1,0 +1,30 @@
+	.card{
+		background-color: grey;
+	}
+	.card-img{
+		width: 100%;
+		height: 400px;
+	}
+	.card-body{
+		background-color: #b8d6cc;
+		border-radius: 3%;
+	}
+	.container{
+		margin-top: 2%;
+	}
+	.navbar{
+		background-color: #63abc7;
+	}
+	.navbar a{
+		color: white;
+	}
+	.navbar a:hover{
+		color: #244369;
+	}
+	.bg{
+		background: url('photo/background/groynes-4033807_1920.jpg') no-repeat fixed ;
+		-webkit-background-size: 100% 100%;
+	    -moz-background-size: 100% 100%;
+	    -o-background-size: 100% 100%;
+	    background-size: 100% 100%;
+	}
